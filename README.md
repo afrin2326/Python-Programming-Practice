@@ -53,23 +53,7 @@ Python-Programming-Practice/
 
 This section showcases selected visual outputs from my data analysis and machine learning practice.
 
-### 1. Risk Distribution Analysis
-
-Visualizes the distribution of risk categories or risk scores in the analyzed dataset.
-
-![Risk Distribution](images/3_Risk_Distribution.png)
-
-![Risk Distribution Chart](images/Chart_3_Risk_Distribution.png)
-
-### 2. Spatial Risk Mapping
-
-Presents geographical or spatial patterns in risk-related data.
-
-![Spatial Risk Mapping](images/3_spatial_risk_mapping.png)
-
-![Spatial Risk Map](images/spatial_risk_map.png)
-
-### 3. Feature Importance Analysis
+### 1. Feature Importance Analysis
 
 Illustrates the relative importance of features used in an analytical or machine learning workflow.
 
@@ -77,19 +61,19 @@ Illustrates the relative importance of features used in an analytical or machine
 
 ![Feature Importance Plot](images/feature_importance_plot.png)
 
-### 4. Cross-Validation
+### 2. Cross-Validation
 
 Showcases model evaluation results across cross-validation folds or experiments.
 
 ![Cross Validation](images/7_cross_validation.png)
 
-### 5. Risk Clustering
+### 3. Risk Clustering
 
 Visualizes risk-related groupings or clusters identified during exploratory analysis.
 
 ![Risk Clustering](images/8_risk_clustering.png)
 
-### 6. Correlation Analysis
+### 4. Correlation Analysis
 
 A correlation heatmap for examining relationships among numerical variables.
 
@@ -97,19 +81,19 @@ A correlation heatmap for examining relationships among numerical variables.
 
 ![Heatmap Chart](images/Chart_4_Heatmap.png)
 
-### 7. Environmental Scatter Plot
+### 5. Environmental Scatter Plot
 
 Explores relationships between environmental variables and risk-related measurements.
 
 ![Environmental Scatter Plot](images/Chart_5_Environmental_Scatter.png)
 
-### 8. Moving Average Analysis
+### 6. Moving Average Analysis
 
 Demonstrates moving averages for understanding trends and smoothing fluctuations in sequential data.
 
 ![Moving Averages](images/Chart_7_Moving_Averages.png)
 
-### 9. Exploratory Data Analysis
+### 7. Exploratory Data Analysis
 
 A collection of visualizations used to explore data distributions, relationships, and potential patterns.
 
