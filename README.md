@@ -55,13 +55,6 @@ This section showcases selected visual outputs from my data analysis and machine
 
 
 
-### 2. Spatial Risk Mapping
-
-Presents geographical or spatial patterns in risk-related data.
-
-![Spatial Risk Mapping](images/3_spatial_risk_mapping.png)
-
-![Spatial Risk Map](images/spatial_risk_map.png)
 
 ### 3. Feature Importance Analysis
 
