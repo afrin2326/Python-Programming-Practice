@@ -56,27 +56,21 @@ This section showcases selected visual outputs from my data analysis and machine
 
 
 
-### 3. Feature Importance Analysis
 
-Illustrates the relative importance of features used in an analytical or machine learning workflow.
 
-![Feature Importance](images/5_feature_importance.png)
-
-![Feature Importance Plot](images/feature_importance_plot.png)
-
-### 4. Cross-Validation
+### 1. Cross-Validation
 
 Showcases model evaluation results across cross-validation folds or experiments.
 
 ![Cross Validation](images/7_cross_validation.png)
 
-### 5. Risk Clustering
+### 2. Risk Clustering
 
 Visualizes risk-related groupings or clusters identified during exploratory analysis.
 
 ![Risk Clustering](images/8_risk_clustering.png)
 
-### 6. Correlation Analysis
+### 3. Correlation Analysis
 
 A correlation heatmap for examining relationships among numerical variables.
 
@@ -84,13 +78,13 @@ A correlation heatmap for examining relationships among numerical variables.
 
 ![Heatmap Chart](images/Chart_4_Heatmap.png)
 
-### 7. Environmental Scatter Plot
+### 4. Environmental Scatter Plot
 
 Explores relationships between environmental variables and risk-related measurements.
 
 ![Environmental Scatter Plot](images/Chart_5_Environmental_Scatter.png)
 
-### 8. Moving Average Analysis
+### 5. Moving Average Analysis
 
 Demonstrates moving averages for understanding trends and smoothing fluctuations in sequential data.
 
