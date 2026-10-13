@@ -54,23 +54,55 @@ Python-Programming-Practice/
 This section showcases selected visual outputs from my data analysis and machine learning practice.
 
 
-### 5. Environmental Scatter Plot
+
+### 2. Spatial Risk Mapping
+
+Presents geographical or spatial patterns in risk-related data.
+
+![Spatial Risk Mapping](images/3_spatial_risk_mapping.png)
+
+![Spatial Risk Map](images/spatial_risk_map.png)
+
+### 3. Feature Importance Analysis
+
+Illustrates the relative importance of features used in an analytical or machine learning workflow.
+
+![Feature Importance](images/5_feature_importance.png)
+
+![Feature Importance Plot](images/feature_importance_plot.png)
+
+### 4. Cross-Validation
+
+Showcases model evaluation results across cross-validation folds or experiments.
+
+![Cross Validation](images/7_cross_validation.png)
+
+### 5. Risk Clustering
+
+Visualizes risk-related groupings or clusters identified during exploratory analysis.
+
+![Risk Clustering](images/8_risk_clustering.png)
+
+### 6. Correlation Analysis
+
+A correlation heatmap for examining relationships among numerical variables.
+
+![Correlation Heatmap](images/9_correlation_heatmap.png)
+
+![Heatmap Chart](images/Chart_4_Heatmap.png)
+
+### 7. Environmental Scatter Plot
 
 Explores relationships between environmental variables and risk-related measurements.
 
 ![Environmental Scatter Plot](images/Chart_5_Environmental_Scatter.png)
 
-### 6. Moving Average Analysis
+### 8. Moving Average Analysis
 
 Demonstrates moving averages for understanding trends and smoothing fluctuations in sequential data.
 
 ![Moving Averages](images/Chart_7_Moving_Averages.png)
 
-### 7. Exploratory Data Analysis
-
-A collection of visualizations used to explore data distributions, relationships, and potential patterns.
-
-![EDA Visualizations](images/eda_visualizations.png)
 
 ## Learning Objectives
 
