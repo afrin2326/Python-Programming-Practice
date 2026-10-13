@@ -53,33 +53,6 @@ Python-Programming-Practice/
 
 This section showcases selected visual outputs from my data analysis and machine learning practice.
 
-### 1. Feature Importance Analysis
-
-Illustrates the relative importance of features used in an analytical or machine learning workflow.
-
-![Feature Importance](images/5_feature_importance.png)
-
-![Feature Importance Plot](images/feature_importance_plot.png)
-
-### 2. Cross-Validation
-
-Showcases model evaluation results across cross-validation folds or experiments.
-
-![Cross Validation](images/7_cross_validation.png)
-
-### 3. Risk Clustering
-
-Visualizes risk-related groupings or clusters identified during exploratory analysis.
-
-![Risk Clustering](images/8_risk_clustering.png)
-
-### 4. Correlation Analysis
-
-A correlation heatmap for examining relationships among numerical variables.
-
-![Correlation Heatmap](images/9_correlation_heatmap.png)
-
-![Heatmap Chart](images/Chart_4_Heatmap.png)
 
 ### 5. Environmental Scatter Plot
 
